@@ -1,0 +1,11 @@
+{
+    "aboutMe": "Soy un estudiante universitario que durante la pandemia comenzó a complementar su formación con distintas tecnologías informáticas. Hoy me encuentro en busca de mi primer trabajo en el rubro, particularmente en el área de ciber-seguridad.",
+    "projects":{
+        "framauro":{
+            "name":"framauro",
+            "created":"date0",
+            "updated":"date1",
+            "description":"sample description"
+        }
+    }
+}
